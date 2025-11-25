@@ -70,7 +70,7 @@ def menu_gestion(palomas):
             case "c":
                 print("Hasta ahora")
             case _:
-                print("Esa opción no existe, no ves ?")
+                print("Esa opcion no existe, no ves ?")
 
 def menu_consultas(palomas):
     print("\n--- Consultas ---")
